@@ -1,4 +1,4 @@
-#code from miracmuratkarakas
+#code from ethical44
 from tkinter import *
 from PIL import Image,ImageTk
 import requests
